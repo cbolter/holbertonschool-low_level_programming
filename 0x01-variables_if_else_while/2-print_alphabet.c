@@ -1,10 +1,17 @@
+#include <stdio.h>
 /**
- *
- * Main -- Entry point
- * 
+ * main -  Entry point
  * Return: 0 (Success)
  */
 int main(void)
 {
-	char alph = 'a'
-	
+	char alph = 'a';
+
+	while (alph <= 'z')
+	{
+		putchar(alph);
+		alph++;
+	}
+	putchar('\n');
+	return (0);
+}
