@@ -15,7 +15,7 @@ int main(void)
 
 	hex = 'a';
 
-	while (num < '9')
+	while (num <= '9')
 	{
 		putchar(num);
 		num++;
