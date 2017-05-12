@@ -1,8 +1,11 @@
 #include <stdlib.h>
 #include <time.h>
-/*0-positive_or_negative_c */
-
-/* Main -- Generates random int, test whether postitve or negative */
+/** 
+* 0-positive_or_negative_c 
+*
+*
+* Main -- Generates random int, test whether postitve or negative 
+*/
 int main(void)
 {
 	int n;
