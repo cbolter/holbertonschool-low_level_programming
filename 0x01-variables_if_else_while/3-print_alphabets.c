@@ -1,4 +1,5 @@
 #include <stdio.h>
+
 /**
  * main -  Entry point
  * Return: 0 (Success)
@@ -10,13 +11,13 @@ int main(void)
 
 	while (alph <= 'z')
 	{
-	       putchar(alph);
-	       alph++;
+	     putchar(alph);
+	     alph++;
 	}
 	while (cap_alph <= 'Z')
 	{
-	       putchar(cap_alph);
-	       cap_alph++;
+	     putchar(cap_alph);
+	     cap_alph++;
 	}
 	putchar('\n');
 	return (0);
