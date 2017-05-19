@@ -1,9 +1,8 @@
 #include "holberton.h"
-#include "_putchar.c"
 /**
  * main - entry point
  * Return: return 0 = success
- * Uses _putchar to print 'Holberton'
+ *
  */
 int main(void)
 {
