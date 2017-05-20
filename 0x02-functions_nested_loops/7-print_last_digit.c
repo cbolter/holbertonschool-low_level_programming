@@ -1,6 +1,6 @@
 #include "holberton.h"
 /**
- * _abs - Calculates the absolute value of an integer
+ * print_last_digit - Calculates the absolute value of an integer
  * @i: Value passed to function
  * Return: 1 if n is positive, 0 if zero, -1 if negative
  *
