@@ -1,12 +1,10 @@
 #include "holberton.h"
 /**
  * jack_bauer - prints all possible times in the 24 hour time format.
- * @i: Value passed to function
- * @one_s: Ones place for seconds
- * @ten_m: Tens place for minutes
- * @one_h: Ones place for hours
- * @ten_h: Tens place for hours
- * Return: s
+ *
+ *
+ *
+ *
  *
  */
 void jack_bauer(void)
