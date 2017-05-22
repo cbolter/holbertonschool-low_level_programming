@@ -8,4 +8,4 @@ int _islower(int c);
 int _isalpha(int c);
 int print_sign(int n);
 int add(int, int);
-void print_to_98(int n)
+void print_to_98(int n);
